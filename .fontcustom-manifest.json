@@ -1,0 +1,77 @@
+{
+  "checksum": {
+    "previous": "32432e902651a5e7bb419176b7ce509834ec5d3ecc071df20229f5d4fa3fae9b",
+    "current": "742d26d0788f4436933700652f6858c612bedd7cf48e3d6a97468512a987767d"
+  },
+  "fonts": [
+
+  ],
+  "glyphs": {
+    "bibtex": {
+      "source": "tools/icons/bibtex.svg",
+      "codepoint": 61696
+    },
+    "collapse": {
+      "source": "tools/icons/collapse.svg",
+      "codepoint": 61697
+    },
+    "expand": {
+      "source": "tools/icons/expand.svg",
+      "codepoint": 61698
+    },
+    "file": {
+      "source": "tools/icons/file.svg",
+      "codepoint": 61699
+    },
+    "file-html": {
+      "source": "tools/icons/file-html.svg",
+      "codepoint": 61700
+    },
+    "file-ps": {
+      "source": "tools/icons/file-ps.svg",
+      "codepoint": 61701
+    },
+    "slides": {
+      "source": "tools/icons/slides.svg",
+      "codepoint": 61702
+    },
+    "template": {
+      "source": "tools/icons/template.svg",
+      "codepoint": 61703
+    },
+    "www": {
+      "source": "tools/icons/www.svg",
+      "codepoint": 61704
+    }
+  },
+  "options": {
+    "input": {
+      "vectors": "tools/icons",
+      "templates": "tools/icons"
+    },
+    "output": {
+      "fonts": "assets/publications/fonts",
+      "css": "assets/publications/fonts",
+      "preview": "assets/publications/fonts"
+    },
+    "config": false,
+    "templates": [
+      "css"
+    ],
+    "font_name": "iconfont",
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "css_selector": ".icon-{{glyph}}",
+    "preprocessor_path": null,
+    "autowidth": false,
+    "no_hash": false,
+    "debug": true,
+    "force": true,
+    "quiet": false
+  },
+  "templates": [
+    "assets/publications/fonts/iconfont.css"
+  ]
+}
